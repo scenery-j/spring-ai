@@ -66,7 +66,7 @@ This repository contains [large model files](https://github.com/spring-projects/
 To clone it you have to either:
 
 - Ignore the large files (won't affect the spring-ai behaviour) :  `GIT_LFS_SKIP_SMUDGE=1 git clone git@github.com:spring-projects/spring-ai.git`.
-- Or install the [Git Large File Storage](https://git-lfs.com/) before cloning the repo
+- Or install the [Git Large File Storage](https://git-lfs.com/) before cloning the repo.
 
 
 ## Building
